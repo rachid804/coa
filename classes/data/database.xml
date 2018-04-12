@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database><products><row><id>1</id><name>HP</name><quantity>120</quantity><price>980</price><date>2018-04-12 21:13:14</date></row><row><id>2</id><name>Apple iMad</name><quantity>60</quantity><price>1500</price><date>2018-04-12 21:13:30</date></row><row><id>3</id><name>Ipad</name><quantity>25</quantity><price>60</price><date>2018-04-12 21:15:11</date></row></products></database>
