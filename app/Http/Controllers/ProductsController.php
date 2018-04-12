@@ -27,7 +27,7 @@ class ProductsController extends Controller
         $this->db
             ->from('products')
             ->select('*')
-            ->orderBy('date', 'ASC');;
+            ->orderBy('date', 'DESC');;
 
         $products = $this->db->getAll();
 
